@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "Hong Jung Pyo"
 layout: splash
 header:
   overlay_color: "#fff"
@@ -17,6 +17,6 @@ intro:
 
 ## Title
 
-Body
+Hanyang University ERICA Department of Artificial Intelligence
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
